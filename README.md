@@ -29,5 +29,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innainna0&theme=solarized_dark)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cerrently+I+am+computer+sience+student)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=innainna0)](https://github.com/ryo-ma/github-profile-trophy)
 
 
