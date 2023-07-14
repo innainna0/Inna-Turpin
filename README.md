@@ -17,8 +17,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innainna0)](https://github.com/anuraghazra/github-readme-stats)
-Е
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cerrently+I+am+computer+sience+student)](https://git.io/typing-svg)
 
 
