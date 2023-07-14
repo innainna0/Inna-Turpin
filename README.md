@@ -16,7 +16,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innainna0)](https://github.com/anuraghazra/github-readme-stats)
+Е
 
 
 
