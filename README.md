@@ -17,7 +17,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innainna0)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=innainna0&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innainna0&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innainna0&theme=solarized_dark)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cerrently+I+am+computer+sience+student)](https://git.io/typing-svg)
 
