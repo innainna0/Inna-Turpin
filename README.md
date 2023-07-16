@@ -1,5 +1,5 @@
 # Inna-Turpin
-<h1>Hi, my name is Inna! <br/><a href="https://github.com/innainna0">I am a Web developer</a> <a href="https://www.linkedin.com/"></a> </h1>
+<h1><br/><a href="https://github.com/innainna0">Web developer</a> <a href="https://www.linkedin.com/"></a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
